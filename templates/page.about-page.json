@@ -1,0 +1,226 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "padding_top": 68,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_NUzKQM": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UX9iTz": {
+          "type": "heading",
+          "settings": {
+            "heading": "We Are Planet Pure.",
+            "heading_size": "h1"
+          }
+        },
+        "text_zzytGd": {
+          "type": "text",
+          "settings": {
+            "text": "A lifestyle goods brand providing clean, low-waste products that are better for you and for the planet.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_UX9iTz",
+        "text_zzytGd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about-primary-desktop_54927810-0235-454f-a73b-77ba9cdd0b68.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-e877da56-db50-4c35-8d36-edcf292bf9b9",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_fpFXgi": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bHn4MF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/earth-icon-dark-green.png",
+            "title": "Beyond Single Use",
+            "text": "<p>We reduce the need for single-use plastic through sustainable versions of every day products.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DcbNJm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/leaf-icon-dark-green_61b3890c-5d68-43b0-a9c9-a7e40eae11892.png",
+            "title": "Minimal, Natural Ingredients",
+            "text": "<p>All of our products are made with safe, non-toxic ingredients – most have only 5 natural ingredients or less!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CTRQhw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/circular-icon-dark-green.png",
+            "title": "Circular Packaging",
+            "text": "<p>All of our packaging is 100% recyclable and most can be composted directly in your backyard!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_bHn4MF",
+        "column_DcbNJm",
+        "column_CTRQhw"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "<p>We raise the bar for what<br\/> a sustainable product looks like.<\/p>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "featured_collection_pT88w8": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Ready to get started?",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "frontpage",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_yVaF8P": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_6yUBRn": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe!",
+            "heading_size": "h1"
+          }
+        },
+        "text_d8nVwE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Save up to 15% off when you \u2028sign up for subscriptions.<\/p>"
+          }
+        },
+        "button_LTfUWY": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/collections\/frontpage",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_6yUBRn",
+        "text_d8nVwE",
+        "button_LTfUWY"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_TBwMC7": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_KNgWBG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The Planet Pure <br\/>Impact Initiative<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "text_3emDmM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>A portion of Planet Pure sales will be used to directly fund clean initiatives like community cleanups, recycling programs, and low-waste lifestyle education.<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KNgWBG",
+        "text_3emDmM"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/package-free-impact-initiative.webp",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_NUzKQM",
+    "multicolumn_fpFXgi",
+    "featured_collection_pT88w8",
+    "rich_text_yVaF8P",
+    "image_with_text_TBwMC7"
+  ]
+}

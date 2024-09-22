@@ -1,0 +1,233 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "padding_top": 68,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_NUzKQM": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_UX9iTz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wholesale Information<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_zzytGd": {
+          "type": "text",
+          "settings": {
+            "text": "To place an order please download and fill out the Order Form and return to <a href=\"mailto:wholesale@packagefreeshop.com\" title=\"mailto:wholesale@packagefreeshop.com\">wholesale@packagefreeshop.com<\/a>. For all B2B orders, please order via <a href=\"https:\/\/app.next.nuorder.com\/packagefree\" target=\"_blank\" title=\"https:\/\/app.next.nuorder.com\/packagefree\">NuOrder<\/a>",
+            "text_style": "body"
+          }
+        },
+        "buttons_67tJ6n": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "WHOLESALE CATALOG",
+            "button_link_1": "https:\/\/www.dropbox.com\/s\/h69cb7z2mie9p6b\/Package%20Free_Wholesale%20Catalogue.pdf?dl=0&utm_source=Klaviyo&utm_medium=email&utm_campaign=10.27.22%20-%20Wholesale%20%28Shopify%29%20-%20Live%20Text%20%2801GGASD8FR3FE73YSFAV8N86M1%29&_kx=",
+            "button_style_secondary_1": true,
+            "button_label_2": "WHOLESALE ORDER FORM",
+            "button_link_2": "https:\/\/docs.google.com\/spreadsheets\/d\/e\/2PACX-1vQg44LQ_20iB3Rsl19asRfGKCTpc4U-obODNl0motvGXlhDBBExXwsCJGdpANFwBw\/pub?output=xlsx",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_UX9iTz",
+        "text_zzytGd",
+        "buttons_67tJ6n"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wholesale-primary-desktop.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-e877da56-db50-4c35-8d36-edcf292bf9b9",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "multicolumn_fpFXgi": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_bHn4MF": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star-icon-dark-green_49fbd851-f2a9-4fd4-8ddc-5cb5ffeda865.png",
+            "title": "",
+            "text": "<p>Opening order minimum is $750 and must be paid via credit card<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DcbNJm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star-icon-dark-green_49fbd851-f2a9-4fd4-8ddc-5cb5ffeda865.png",
+            "title": "",
+            "text": "<p>After opening order, terms may be extended based on credit approval<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_CTRQhw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star-icon-dark-green_49fbd851-f2a9-4fd4-8ddc-5cb5ffeda865.png",
+            "title": "",
+            "text": "<p>New retailers must have a brick-and-mortar component<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_bHn4MF",
+        "column_DcbNJm",
+        "column_CTRQhw"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "<p>Wholesale Requirements<\/p>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "WHOLESALE QUESTIONNAIRE",
+        "button_link": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdn24apkTV2G5k9jDvZ5UwR8j47-1S8IZssA9RghuM5eJ4wAQ\/viewformhttps:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdn24apkTV2G5k9jDvZ5UwR8j47-1S8IZssA9RghuM5eJ4wAQ\/viewformhttps:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSdn24apkTV2G5k9jDvZ5UwR8j47-1S8IZssA9RghuM5eJ4wAQ\/viewform",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_jzPwUE": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_RhNtkM": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Corporate Gifting <br\/>Information<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_8RzixY": {
+          "type": "text",
+          "settings": {
+            "text": "To place an order please download and fill out the Order Form and return to <a href=\"mailto:wholesale@packagefreeshop.com\" title=\"mailto:wholesale@packagefreeshop.com\">wholesale@packagefreeshop.com<\/a>",
+            "text_style": "body"
+          }
+        },
+        "buttons_hGJnma": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "CORPORATE CATALOG",
+            "button_link_1": "https:\/\/www.dropbox.com\/s\/hjgnb5ccw7xx4kj\/Package%20Free_Corporate%20Gifting_2023_.pdf?dl=0",
+            "button_style_secondary_1": true,
+            "button_label_2": "STUDENT CATALOG",
+            "button_link_2": "https:\/\/www.dropbox.com\/s\/5q3ap0a8so6ea1i\/Package%20Free_College%20Deck_Rename.pdf?dl=0",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_RhNtkM",
+        "text_8RzixY",
+        "buttons_hGJnma"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/wholesale-tertiary-desktop.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-e877da56-db50-4c35-8d36-edcf292bf9b9",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "multicolumn_YLba6E": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_hGTDYL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star-icon-dark-green_49fbd851-f2a9-4fd4-8ddc-5cb5ffeda865.png",
+            "title": "",
+            "text": "<p>Opening order minimum is $1,000<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rYTpWT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star-icon-dark-green_49fbd851-f2a9-4fd4-8ddc-5cb5ffeda865.png",
+            "title": "",
+            "text": "<p>All opening orders must be paid via credit card<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_QedcWj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/star-icon-dark-green_49fbd851-f2a9-4fd4-8ddc-5cb5ffeda865.png",
+            "title": "",
+            "text": "<p>After opening order, terms may be extended based on credit approval<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_hGTDYL",
+        "column_rYTpWT",
+        "column_QedcWj"
+      ],
+      "settings": {
+        "title": "<p>Corporate Gifting Requirements<\/p>",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "ORDER FORM",
+        "button_link": "https:\/\/docs.google.com\/spreadsheets\/d\/e\/2PACX-1vQg44LQ_20iB3Rsl19asRfGKCTpc4U-obODNl0motvGXlhDBBExXwsCJGdpANFwBw\/pub?output=xlsx",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_banner_NUzKQM",
+    "multicolumn_fpFXgi",
+    "image_banner_jzPwUE",
+    "multicolumn_YLba6E"
+  ]
+}

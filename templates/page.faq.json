@@ -1,0 +1,435 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_7Xgcwi": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_GR4GHL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is Package Free Shop?",
+            "icon": "none",
+            "row_content": "<p>We are a lifestyle brand providing clean, climate-friendly products that are better for you and our planet.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_9AyrmX": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What does it mean to be ‘Package Free’?",
+            "icon": "none",
+            "row_content": "<p>At Package Free, we believe that living a climate friendly lifestyle should be easy, cost-effective, and fun! For us, living a Package Free life means that we are avoiding single-use plastic and disposable products to the best of our ability.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_m3dnQJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "But wait, some of your products have packaging?",
+            "icon": "none",
+            "row_content": "<p>Despite our company's name, some of our products come in packaging. We understand your skepticism, but here's why and how we're addressing it. We only sell and send products in packaging if the packaging is 100% recyclable, compostable, or legally necessary. The industries and suppliers we work with are impressive, yet far from flawless (can you name a perfect company?). Even sustainable products often use traditional packaging due to consumer expectations. We strive to offer the best options available. Some items, like menstrual cups and toothbrushes, require FDA-compliant packaging, which we ensure is compostable and recyclable.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Ha6QPT": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do we do to combat excess waste and packaging?",
+            "icon": "none",
+            "row_content": "<p>We only sell and send products in packaging if the packaging is 100% recyclable, compostable, or legally necessary. We're continuously developing solutions to reduce unnecessary packaging and waste, aiming to set a new standard for sustainability in business!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_EQLfQC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I reach the Package Free team?",
+            "icon": "none",
+            "row_content": "<p>We do our best to make sure the answer to your question is located in our FAQ. However, we would love to hear from you! You can email us at<a href=\"mailto:support@packagefreeshop.com\" title=\"mailto:support@packagefreeshop.com\">support@packagefreeshop.com<\/a><\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_FzQTAj": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "I am a brand and want to sell at Package Free, what do I do?",
+            "icon": "none",
+            "row_content": "<p>Please submit a vendor application<a href=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSefHpj9A0hhOoJGrTBKVYsepTtrqRsaCIMIwy0ZRpgc-uRl7g\/viewform\" title=\"https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSefHpj9A0hhOoJGrTBKVYsepTtrqRsaCIMIwy0ZRpgc-uRl7g\/viewform\">here<\/a>! Package Free requests two samples of each SKU for testing before onboarding a new brand. Samples will not be returned, as we rigorously assess all products for quality before featuring them on our website and in stores. We're committed to offering our customers the very best, which is why our team thoroughly tests everything.If we don't currently accept your product, don't be discouraged; it may be a possibility in the future. Feel free to reach out for feedback on how your brand can align better with our mission and values. We're all about mutual growth!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YpLcHk": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What does Package Free request of our vendors for inbound shipments?",
+            "icon": "none",
+            "row_content": "<p>We require that all shipments to Package Free Shop come 100% plastic free (that includes bio-based or compostable plastics as well). The less packaging the better.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_GR4GHL",
+        "collapsible_row_9AyrmX",
+        "collapsible_row_m3dnQJ",
+        "collapsible_row_Ha6QPT",
+        "collapsible_row_EQLfQC",
+        "collapsible_row_FzQTAj",
+        "collapsible_row_YpLcHk"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "GENERAL FAQs",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "scheme-1",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_Hr9iTN": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_bEhjQg": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do you handle shipping in a ‘Package Free’ way?",
+            "icon": "none",
+            "row_content": "<p>At Package Free, we ship everything 100% plastic free in a post-consumer cardboard box with paper wrapping, labels, and tape. All of our shipping materials are 100% recyclable and compostable.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_qYTJTC": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Do you offer international shipping?",
+            "icon": "none",
+            "row_content": "<p>Yes! We want to make it easier for you to reduce your waste, no matter where you are! All International shipments are shipped Duties and Taxes unpaid. The customer is responsible for payment of those fees. At this time, we do not ship liquids internationally.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Nrn444": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "When will my order arrive?",
+            "icon": "none",
+            "row_content": "<p>Normally domestic orders will arrive in 6-10 business days but during peak season, may require a few extra days for shipping and processing. You should receive an email or SMS order notification with a tracking number to track your shipment. If your shipment tracking number shows pre-shipment, in transit, or delivered status, you can be confident that we have packaged and shipped your order.Your package will be in transit for the length of time associated with your choice of Priority, First Class, or International Shipping.<br\/>If you have any concerns about a lost or delayed shipment, please contact support@packagefreeshop.com. We ask for your patience while we work on your behalf to understand when your package will be delivered. We assure you that we will do everything in our power to make sure you get your Package Free goods!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_YtaCCM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How will I know if my order has been shipped?",
+            "icon": "none",
+            "row_content": "<p>If you provided your contact info during checkout, expect an email or SMS order confirmation once your order is placed. You'll also receive a shipping confirmation with a tracking number once your order ships. Please be aware that larger items may ship from different locations, resulting in multiple packages arriving on different dates and times. We'll supply tracking details for each shipment for your convenience.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_bEhjQg",
+        "collapsible_row_qYTJTC",
+        "collapsible_row_Nrn444",
+        "collapsible_row_YtaCCM"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "SHIPPING",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_a8jhfy": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_AQLpMQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your return policy?",
+            "icon": "none",
+            "row_content": "<p>Due to the impact on the environment, we do not accept returns or issue refunds. If you have any issues with your product, please contact us as we address exceptions on a case-by-case basis. If there is an issue with the order, you must reach out within 30 days of the date the order was placed. Our support team is here to help answer any product questions you might have so that you can make a more informed purchase.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kyAUiW": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Why doesn’t Package Free accept returns?",
+            "icon": "none",
+            "row_content": "<p>Why no returns?\" is a common question we get. It's because we're deeply committed to our environmental mission, and online retail returns have a significant negative impact. Here's why: returns generate 5 billion pounds of landfill waste and 1.6 billion gallons of diesel fuel burned, resulting in 15 million metric tons of CO2 emissions in the U.S. In 2017, returns accounted for $380 billion worth of goods.We believe the culture of \"over-shopping because returns are free\" is the real problem. Instead, we advocate for smarter online shopping. As a brand, we thoroughly vet our products for sustainability, but we encourage you to research purchases, avoid impulse buys, and only buy what you truly need. Let's work together towards more mindful consumption.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_b6LKyx": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is your cancellation policy?",
+            "icon": "none",
+            "row_content": "<p>Please contact us at support@packagefreeshop.com with your order number and we will do our best to accommodate if the order has not been processed for shipment. We cannot guarantee order cancellations once an order has been placed.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_AQLpMQ",
+        "collapsible_row_kyAUiW",
+        "collapsible_row_b6LKyx"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "RETURNS",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_MqxawR": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_NfJ7n3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Are there any sales and promotions going on now?",
+            "icon": "none",
+            "row_content": "<p>The Package Free Shop Shower Bundle promotion is available on <a href=\"http:\/\/packagefreeshop.com\/\">packagefreeshop.com<\/a>. Receive 25% off a purchase of two shower bars. Use code SHOWER25 at checkout to receive the discount. Promotion has no cash value and cannot be applied to previous purchases or gift cards. Package Free reserves the right to extend, modify, or discontinue this offer at any time without notice.<\/p><p>The Package Free Shop Laundry Detergent Bundle promotion is available on <a href=\"http:\/\/packagefreeshop.com\/\">packagefreeshop.com<\/a>. Receive 25% off a purchase of two laundry detergents. Use code LAUNDRY25 at checkout to receive the discount. Promotion has no cash value and cannot be applied to previous purchases or gift cards. Package Free reserves the right to extend, modify, or discontinue this offer at any time without notice.<\/p><p>The Package Free Shop Cleaning Spray Bundle promotion is available on <a href=\"http:\/\/packagefreeshop.com\/\">packagefreeshop.com<\/a>. Receive 25% off a purchase of two cleaning sprays. Use code SPRAY25 at checkout to receive the discount. Promotion has no cash value and cannot be applied to previous purchases or gift cards. Package Free reserves the right to extend, modify, or discontinue this offer at any time without notice.<\/p><p>Welcome promotion is valid on packagefreeshop.com. Promotions that are offered via promo code cannot be combined with other offers, promotions or already marked down merchandise. Offer has no cash value and cannot be applied to previous purchases or gift cards. Price adjustments will only be offered on previous purchases that were made at full price within 10 days of the start of the sale date.<br\/><br\/>Package Free Shop Stock Up and Save Discount is available on packagefreeshop.com. Receive 20% off a purchase of $250 or more. Use the code STOCKUP20 at checkout to receive the discount. Exclusions apply. Promotion has no cash value and cannot be applied to previous purchases or gift cards. Package Free reserves the right to extend, modify, or discontinue this offer at any time without notice.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_NfJ7n3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "SALES AND PROMOTIONS",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_9krpwi": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_pxPRjJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does the subscription program work at Package Free?",
+            "icon": "none",
+            "row_content": "<p>Select the Subscribe & Save option on a product’s page when adding it to your cart to create a subscription. Choose the delivery frequency for your subscription items and get 15% off on Package Free fulfillments and 10% off on all other fulfillments!  *See disclaimer for details.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_KBqG8f": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How can I manage my subscription?",
+            "icon": "none",
+            "row_content": "<p>Log in to your Package Free Account. If you haven’t created an account yet, you can do so here. Once you are logged in, look for the Manage Subscription box on the lower left hand side of the page and click the Login button to access our subscription portal. The subscription page will appear as a pop up. If you have a pop up blocker in use, you will need to manually open the browser. If you are on mobile, the Manage Subscription box will be at the bottom of the account page.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_6wnJKJ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I skip the fulfillment of my subscription?",
+            "icon": "none",
+            "row_content": "<p>Access our subscription portal by logging into your account. On the left hand side of the screen, click Your Orders to see upcoming orders. You will see the option to reschedule your order or Skip.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_g79cxq": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I pause my subscription?",
+            "icon": "none",
+            "row_content": "<p>Access our subscription portal by logging into your account. Click on the subscription you would like to pause, and scroll down to the bottom of the subscription to locate the pause button.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_pxPRjJ",
+        "collapsible_row_KBqG8f",
+        "collapsible_row_6wnJKJ",
+        "collapsible_row_g79cxq"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "SUBSCRIPTIONS",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_Watwbe": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_RP8NKy": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How does it work?",
+            "icon": "none",
+            "row_content": "<p>By creating a rewards account with us, you can earn points that turn into dollar credits at checkout! Rewards members gain access to exclusive discounts, newsletters, and so much more. Earn points when you shop, refer friends, and on your birthday!<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AJpEpL": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How do I create an account?",
+            "icon": "none",
+            "row_content": "<p>You can create an account by clicking Rewards at the top of our website. Enter your information on the right hand side under Sign Up.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Xy6qNK": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where do I enter my birthday?",
+            "icon": "none",
+            "row_content": "<p>Create or log in to your account. On the your account page, click Add Birthday on the right hand side.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_gKKpLc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I combine loyalty points with other promotions?",
+            "icon": "none",
+            "row_content": "<p>Unfortunately at this time, we can only apply one discount code per order, so we cannot combine your loyalty points and a coupon code. This also means that you cannot apply multiple rewards at checkout.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_RP8NKy",
+        "collapsible_row_AJpEpL",
+        "collapsible_row_Xy6qNK",
+        "collapsible_row_gKKpLc"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "LOYALTY",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "collapsible_content_XBEMyt": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_b49k3a": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Where do I purchase a gift card?",
+            "icon": "none",
+            "row_content": "<p>You can purchase gift cards online<a href=\"https:\/\/packagefreeshop.com\/products\/gift-card\" target=\"_blank\" title=\"https:\/\/packagefreeshop.com\/products\/gift-card\">here<\/a>! Please note gift cards are digital only.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_AtH3F9": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "How will I receive the gift card I purchased online?",
+            "icon": "none",
+            "row_content": "<p>You will receive your gift card by email within a few hours. Please check your spam folder if you have difficulty finding it.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_JMftJR": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What do I do if my gift card balance is less than my cart total?",
+            "icon": "none",
+            "row_content": "<p>If there is a balance left over, pay with your credit card, debit card, or PayPal account!<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_b49k3a",
+        "collapsible_row_AtH3F9",
+        "collapsible_row_JMftJR"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "GIFT CARDS",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collapsible_content_7Xgcwi",
+    "collapsible_content_Hr9iTN",
+    "collapsible_content_a8jhfy",
+    "collapsible_content_MqxawR",
+    "collapsible_content_9krpwi",
+    "collapsible_content_Watwbe",
+    "collapsible_content_XBEMyt"
+  ]
+}
