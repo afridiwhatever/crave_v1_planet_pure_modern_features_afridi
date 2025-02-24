@@ -23,6 +23,7 @@
         "slide_PCCC4F": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/pueh000030xl_1520ml_hand_r1_extra-large_c2a88ad3-747e-460a-b04c-e2db6efc17b6.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -40,6 +41,7 @@
         "slide_3XEnCJ": {
           "type": "slide",
           "settings": {
+            "image": "shopify://shop_images/PDP_PF_Bamboo_Hairbrush_PUEY000330STD_BACK_R12.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
