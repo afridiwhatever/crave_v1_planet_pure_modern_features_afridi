@@ -18,7 +18,6 @@
 </style>
 
 <cart-drawer class="drawer{% if cart == empty %} is-empty{% endif %}">
-  {%- render 'free-shipping-bar-progress' -%}
   <div id="CartDrawer" class="cart-drawer">
     <div id="CartDrawer-Overlay" class="cart-drawer__overlay"></div>
     <div
@@ -71,6 +70,9 @@
           {% render 'icon-close' %}
         </button>
       </div>
+
+      {%- render 'free-shipping-bar-progress' -%}
+
       <cart-drawer-items
         {% if cart == empty %}
           class=" is-empty"
