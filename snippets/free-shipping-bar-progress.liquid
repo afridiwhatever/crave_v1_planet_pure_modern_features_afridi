@@ -42,31 +42,29 @@
 {% assign free_shipping_threshold = settings.free_shipping_threshold | times: 100 %}
 {% assign cart_total = cart.total_price | plus: 0 %}
 
-{%- if free_shipping_threshold > 0 -%}
-  <div class="free-shipping-progress-bar-container">
-    <div class="shipping-bar-announcement">
-      {%- if cart_total < free_shipping_threshold -%}
-        {%- assign amount_remaining = free_shipping_threshold | minus: cart_total -%}
-        {%- assign progress_percentage = cart_total | times: 100 | divided_by: free_shipping_threshold -%}
-        <span>
-          You are <strong>{{ amount_remaining | money }} </strong> away from unlocking free shipping!
-        </span>
-      {%- else -%}
-        {%- assign progress_percentage = 100 -%}
-        <span class="shipping-bar-announcement-complete">
-          <strong>Hoorayy! You’re eligible for free shipping!</strong>
-          Checkout as normal, we'll take care of it!
-        </span>
-      {%- endif -%}
-    </div>
+<div class="free-shipping-progress-bar-container">
+  <div class="shipping-bar-announcement">
+    {%- if cart_total < free_shipping_threshold -%}
+      {%- assign amount_remaining = free_shipping_threshold | minus: cart_total -%}
+      {%- assign progress_percentage = cart_total | times: 100 | divided_by: free_shipping_threshold -%}
+      <span>
+        You are <strong>{{ amount_remaining | money }} </strong> away from unlocking free shipping!
+      </span>
+    {%- else -%}
+      {%- assign progress_percentage = 100 -%}
+      <span class="shipping-bar-announcement-complete">
+        <strong>Hoorayy! You’re eligible for free shipping!</strong>
+        Checkout as normal, we'll take care of it!
+      </span>
+    {%- endif -%}
+  </div>
 
-    <div class="visual-progress-bar {% if progress_percentage == 100 %} complete {% endif %}">
-      <div
-        style="width: {{ progress_percentage }}%;"
-        class="visual-progress-bar-fill "
-      >
-        &nbsp;
-      </div>
+  <div class="visual-progress-bar {% if progress_percentage == 100 %} complete {% endif %}">
+    <div
+      style="width: {{ progress_percentage }}%;"
+      class="visual-progress-bar-fill "
+    >
+      &nbsp;
     </div>
   </div>
-{%- endif -%}
+</div>
