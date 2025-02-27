@@ -1,0 +1,72 @@
+<style>
+  .free-shipping-progress-bar-container {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    padding: 12px 10px;
+    background-color: #eee9e9;
+    margin-bottom: 2rem;
+  }
+
+  .shipping-bar-announcement {
+    font-size: 12px;
+  }
+
+  .shipping-bar-announcement-complete {
+    display: block;
+    width: 100%;
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .visual-progress-bar {
+    background-color: #0c7623;
+    position: relative;
+    height: 10px;
+    width: 100%;
+  }
+
+  .visual-progress-bar.complete {
+    display: none;
+  }
+
+  .visual-progress-bar-fill {
+    background-color: #94c09d;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    transition: width ease-in-out 2s;
+  }
+</style>
+{% assign free_shipping_threshold = settings.free_shipping_threshold | times: 100 %}
+{% assign cart_total = cart.total_price | plus: 0 %}
+
+{%- if free_shipping_threshold > 0 -%}
+  <div class="free-shipping-progress-bar-container">
+    <div class="shipping-bar-announcement">
+      {%- if cart_total < free_shipping_threshold -%}
+        {%- assign amount_remaining = free_shipping_threshold | minus: cart_total -%}
+        {%- assign progress_percentage = cart_total | times: 100 | divided_by: free_shipping_threshold -%}
+        <span>
+          You are <strong>{{ amount_remaining | money }} </strong> away from unlocking free shipping!
+        </span>
+      {%- else -%}
+        {%- assign progress_percentage = 100 -%}
+        <span class="shipping-bar-announcement-complete">
+          <strong>Hoorayy! You’re eligible for free shipping!</strong>
+          Checkout as normal, we'll take care of it!
+        </span>
+      {%- endif -%}
+    </div>
+
+    <div class="visual-progress-bar {% if progress_percentage == 100 %} complete {% endif %}">
+      <div
+        style="width: {{ progress_percentage }}%;"
+        class="visual-progress-bar-fill "
+      >
+        &nbsp;
+      </div>
+    </div>
+  </div>
+{%- endif -%}
