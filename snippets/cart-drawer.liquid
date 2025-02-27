@@ -18,6 +18,7 @@
 </style>
 
 <cart-drawer class="drawer{% if cart == empty %} is-empty{% endif %}">
+  {%- render 'free-shipping-bar-prograss' -%}
   <div id="CartDrawer" class="cart-drawer">
     <div id="CartDrawer-Overlay" class="cart-drawer__overlay"></div>
     <div
