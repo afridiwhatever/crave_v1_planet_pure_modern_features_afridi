@@ -1,0 +1,5 @@
+1. create a snippet file and render in cart drawer and cart page
+
+2. write html, css, js inside that with a placeholder threshold, color and text.
+
+3. update settings to allow the admin to input shipping threshold, before and after completion text and corresponding bar color.
